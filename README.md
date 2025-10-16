@@ -30,4 +30,7 @@ download_depot 440 232253 1021304105111148610
 
 Client Dated: 10 January 2024 – 00:58:40 UTC
 
+
+TODO: Add flatpak Steam guide, nosteam, and add guide for dependencies.
+
 Have fun!
