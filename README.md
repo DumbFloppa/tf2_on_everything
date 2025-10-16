@@ -11,7 +11,13 @@ To use just add LD_PRELOAD="strstr64.so $LD_PRELOAD" %command% to Steam launch a
 32-bit: gcc -fPIC -DPIC -O2 -m32 -c ogl/strstr.c && ld -m elf_i386 -shared -o strstr.so strstr.o
 To use just add LD_PRELOAD="strstr.so $LD_PRELOAD" %command% to Steam launch arguments and copy the strstr.so to the 32-bit Linux Source engine based game's folder.
 
-How to download Linux 32-bit TF2?
+FAQ
+
+
+Q: How to download Linux 32-bit TF2?
+
+A:
+
 Easy.
 
 Open a terminal and type steam steam://open/console // I'll update the guide later to include the Flatpak version of Steam.
