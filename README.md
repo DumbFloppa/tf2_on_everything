@@ -14,8 +14,11 @@ To use just add LD_PRELOAD="strstr.so $LD_PRELOAD" %command% to Steam launch arg
 How to download Linux 32-bit TF2?
 Easy.
 Open a terminal and type steam steam://open/console // I'll update the guide later to include the Flatpak version of Steam.
+
 download_depot 440 441 310401172695269575
+
 download_depot 440 232253 1021304105111148610
+
 Client Dated: 10 January 2024 – 00:58:40 UTC
 
 Have fun!
